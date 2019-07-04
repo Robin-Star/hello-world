@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+大家好！新人报到
